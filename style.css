@@ -1,5 +1,5 @@
-/*body { 
-  background: url('http://media.mydogspace.com.s3.amazonaws.com/wp-content/uploads/2013/08/puppy-500x350.jpg') no-repeat center center fixed; 
+*body { 
+  background: url('https://goo.gl/images/rrsXa2') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -58,16 +58,6 @@ header {
 	background-size: cover;
 }
 
-.icons {
-	/*display: block;/**/
-	/*margin: 0 auto;*/
-	text-align: center;
-	/*vertical-align: middle*/
-}
-
-.fa {
-	color: #404040;
-}
 
 h1, h3, p {
 	font-family: 'Roboto', sans-serif;
